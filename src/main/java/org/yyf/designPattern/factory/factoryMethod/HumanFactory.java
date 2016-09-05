@@ -1,4 +1,4 @@
-package org.yyf.designPattern.factory;
+package org.yyf.designPattern.factory.factoryMethod;
 
 import java.util.Objects;
 
