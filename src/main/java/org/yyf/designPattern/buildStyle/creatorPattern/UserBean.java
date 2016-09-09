@@ -1,4 +1,4 @@
-package org.yyf.designPattern.creatorPattern;
+package org.yyf.designPattern.buildStyle.creatorPattern;
 
 /**
  * Created by tobi on 16-9-5.

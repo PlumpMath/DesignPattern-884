@@ -1,4 +1,4 @@
-package org.yyf.designPattern.factory.factoryMethod;
+package org.yyf.designPattern.buildStyle.factory.factoryMethod;
 
 /**
  * Created by tobi on 16-9-5.

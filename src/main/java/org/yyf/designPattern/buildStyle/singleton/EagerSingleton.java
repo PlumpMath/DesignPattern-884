@@ -1,4 +1,4 @@
-package org.yyf.designPattern.singleton;
+package org.yyf.designPattern.buildStyle.singleton;
 
 import java.util.concurrent.TimeUnit;
 
