@@ -1,6 +1,5 @@
-package org.yyf.designPattern.adatper;
+package org.yyf.designPattern.structureStyle.adatper;
 
-import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 

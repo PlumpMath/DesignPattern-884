@@ -1,4 +1,4 @@
-package org.yyf.designPattern.strategy;
+package org.yyf.designPattern.behaviorStyle.strategy;
 
 /**
  * Created by tobi on 16-7-28.
