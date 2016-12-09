@@ -17,6 +17,7 @@ public class LazySingleton {
     }
 
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("gogogo!");
         TimeUnit.SECONDS.sleep(2);
         System.out.println("before getSinleton method!");
         LazySingleton instance = LazySingleton.getInstance();

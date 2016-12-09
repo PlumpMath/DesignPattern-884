@@ -17,6 +17,7 @@ public class EagerSingleton {
     }
 
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("hei,main thread gogogogo!");
         TimeUnit.SECONDS.sleep(2);
         System.out.println("before getSinleton method!");
         EagerSingleton singleton = EagerSingleton.getSingleton();

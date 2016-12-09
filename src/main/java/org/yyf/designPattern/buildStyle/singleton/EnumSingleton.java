@@ -18,6 +18,7 @@ public enum EnumSingleton {
     }
 
     public static void main(String[] args) throws InterruptedException {
+        System.out.println("go!");
         TimeUnit.SECONDS.sleep(2);
         System.out.println("sleep finished");
         EnumSingleton.singleton.doSomething();
